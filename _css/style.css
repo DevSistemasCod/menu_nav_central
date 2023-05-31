@@ -1,0 +1,36 @@
+
+
+body{
+  margin: 0;
+  padding: 0;
+  background: #ccc;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.menuDeNavegacao ul{
+  list-style: none;
+  background: #3d3f43;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+.menuDeNavegacao li{
+  display: inline-block;
+}
+
+.menuDeNavegacao a{
+  text-decoration: none;
+  color: #fff;
+  width: 120px;
+  display: block;
+  padding: 12px 2px;
+  font-size: 18px;
+  text-align: center;
+}
+
+.menuDeNavegacao a:hover{
+  background: #a9b0ba;
+  color: #000;
+}
+
